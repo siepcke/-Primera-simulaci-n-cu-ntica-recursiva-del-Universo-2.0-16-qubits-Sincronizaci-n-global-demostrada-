@@ -1,0 +1,1 @@
+# -Primera-simulaci-n-cu-ntica-recursiva-del-Universo-2.0-16-qubits-Sincronizaci-n-global-demostrada-
