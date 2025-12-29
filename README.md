@@ -123,3 +123,30 @@ ANÁLISIS DEL CEREBRO CUÁNTICO UNIVERSAL - 16 QUBITS
 ```bash
 pip install qutip matplotlib numpy
 python siepcke_n16.py
+# Simulación Cuántica "Universo 2.0"
+
+## Descripción
+
+"Universo 2.0" es una simulación cuántica que modela un sistema de 12 qubits a lo largo de 3 ciclos utilizando la biblioteca QuTiP. El objetivo principal es cumplir con los criterios de Siepcke, que requieren una coherencia final mayor o igual a 0.098 y una varianza final menor que 0.001. Esta simulación genera métricas detalladas, gráficos, y reportes que permiten un análisis profundo del sistema cuántico.
+
+## Requisitos
+
+- Python 3.8+
+- Bibliotecas necesarias:
+  - QuTiP
+  - pandas
+  - openpyxl
+  - xlsxwriter
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - h5py
+  - tables
+
+## Instalación
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/siepcke/universo2.0.git
+   cd universo2.0
